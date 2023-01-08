@@ -13,12 +13,12 @@
   
   </a>
 
-<h3 align="center">Multistep Form</h3>
+<h3 align="center">Social Media App</h3>
 
   <p align="center">
-    Um formulário de avaliações divido por etapas.
+    ...
     <br />
-    <a href="https://github.com/cacaiol/multistep-form"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/cacaiol/social-media-app"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/cacaiol/multistep form">View Demo</a>
