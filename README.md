@@ -21,11 +21,11 @@
     <a href="https://github.com/cacaiol/social-media-app"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/cacaiol/multistep form">View Demo</a>
+    <a href="https://github.com/cacaiol/social-media-app">View Demo</a>
     ·
-    <a href="https://github.com/cacaiol/multistep-form/issues">Report Bug</a>
+    <a href="https://github.com/cacaiol/social-media-app/issues">Report Bug</a>
     ·
-    <a href="https://github.com/cacaiol/multistep-form/issues">Request Feature</a>
+    <a href="https://github.com/cacaiol/social-media-app/issues">Request Feature</a>
   </p>
 </div>
 
