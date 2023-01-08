@@ -56,13 +56,11 @@
 ## Sobre o Projeto
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/107950801/205970569-859a6edb-eb46-4999-90b6-c7c2e4d606ab.png" width="500px">
-<img src="https://user-images.githubusercontent.com/107950801/205970582-0fe691d6-f9a1-422b-b55b-3ebcbc422b2c.png" width="500px">
-<img src="https://user-images.githubusercontent.com/107950801/205970594-5ff9bd91-6526-450c-8dcb-7417c4418815.png" width="500px">
+<img src="" width="500px">
 </div>
 <br/>
 
-           A representação de um formulário de avaliações com multiplas etapas e validações de campos.  
+           ...  
 
 ### Construído com
 
@@ -86,7 +84,7 @@ Este é um exemplo de como listar as coisas que você precisa para usar o softwa
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/cacaiol/multistep-form
+   git clone https://github.com/cacaiol/social-media-app
    ```
 2. Install NPM packages
    ```sh
@@ -123,7 +121,7 @@ Distribuído sob a licença MIT. Veja `LICENSE.txt` para mais informações.
 
 Caio Fernandes - [@cacaiozz](https://www.instagram.com/cacaiozz/) - caiocdwork@gmail.com
 
-Link do Projeto: [https://github.com/cacaiol/multistep-form](https://github.com/cacaiol/multistep-form)
+Link do Projeto: [https://github.com/cacaiol/social-media-app](https://github.com/cacaiol/social-media-app)
 
 
 
