@@ -9,7 +9,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/cacaiol/multistep-form">
+  <a href="https://github.com/cacaiol/social-media-app">
   
   </a>
 
