@@ -88,7 +88,7 @@ Este é um exemplo de como listar as coisas que você precisa para usar o softwa
    ```
 2. Install NPM packages
    ```sh
-   npm install react-icons 
+   npm install 
    ```
 3. Start the application 
     ```sh
